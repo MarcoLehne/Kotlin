@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ChuckNorrisTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-12-12T15:31:39" hostname="LAPTOP-M0RA6LO4" time="0.416">
+  <properties/>
+  <testcase name="start" classname="ChuckNorrisTest" time="0.416"/>
+  <system-out><![CDATA[?[1;31m
+Start test 1?[0m
+Please input operation (encode/decode/exit):
+> encode
+Input string:
+> H W!
+Encoded string:
+0 0 00 00 0 0 00 0000 0 0 00 00000 0 0 00 0 0 0 00 0 0 000 00 0 0 0 00 0000 0 0
+
+Please input operation (encode/decode/exit):
+> decode
+Input encoded string:
+> 0 0 00 00 0 0 00 0000 0 0 00 00000 0 0 00 0 0 0 00 0 0 000 00 0 0 0 00 0000 0 0
+H W!Decoded string:
+H W!
+
+Please input operation (encode/decode/exit):
+> Hello world!
+There is no 'Hello world!' operation
+
+Please input operation (encode/decode/exit):
+> decode
+Input encoded string:
+> hello world!
+Decoded string is not valid.
+
+Please input operation (encode/decode/exit):
+> decode
+Input encoded string:
+> 0 0 00 00 0 0 00 0000 0 0 00 0 0 00 0 0 0 00 0 0 000 00 0 0 0 00 0000 0 0
+Decoded string is not valid.
+
+Please input operation (encode/decode/exit):
+> decode
+Input encoded string:
+> 0 0 00 00 0 0 00 000 0 0 00 0000 0 0 00 0 0 0 00 0 0 000 00 0 0 0 00 0000 0 0
+HB]Decoded string is not valid.
+
+Please input operation (encode/decode/exit):
+> decode
+Input encoded string:
+> 0 0 00 00 0 0 000 000
+Decoded string is not valid.
+
+Please input operation (encode/decode/exit):
+> exit
+Bye!
+
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

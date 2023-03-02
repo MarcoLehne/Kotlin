@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Zookeeper.iml" filepath="$PROJECT_DIR$/.idea/modules/Zookeeper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/String templates/Arithmetic expression/Zookeeper.Topics-String_templates-Arithmetic_expression.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/String templates/Arithmetic expression/Zookeeper.Topics-String_templates-Arithmetic_expression.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/String templates/Arithmetic expression/Zookeeper.Topics-String_templates-Arithmetic_expression.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/String templates/Arithmetic expression/Zookeeper.Topics-String_templates-Arithmetic_expression.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/String templates/Arithmetic expression/Zookeeper.Topics-String_templates-Arithmetic_expression.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/String templates/Arithmetic expression/Zookeeper.Topics-String_templates-Arithmetic_expression.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/String templates/Templates for expressions/Zookeeper.Topics-String_templates-Templates_for_expressions.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/String templates/Templates for expressions/Zookeeper.Topics-String_templates-Templates_for_expressions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/String templates/Templates for expressions/Zookeeper.Topics-String_templates-Templates_for_expressions.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/String templates/Templates for expressions/Zookeeper.Topics-String_templates-Templates_for_expressions.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/String templates/Templates for expressions/Zookeeper.Topics-String_templates-Templates_for_expressions.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/String templates/Templates for expressions/Zookeeper.Topics-String_templates-Templates_for_expressions.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/String templates/Theory/Zookeeper.Topics-String_templates-Theory.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/String templates/Theory/Zookeeper.Topics-String_templates-Theory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/String templates/Theory/Zookeeper.Topics-String_templates-Theory.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/String templates/Theory/Zookeeper.Topics-String_templates-Theory.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/String templates/Theory/Zookeeper.Topics-String_templates-Theory.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/String templates/Theory/Zookeeper.Topics-String_templates-Theory.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Zookeeper.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Zookeeper.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Zookeeper.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Zookeeper.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Zookeeper.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Zookeeper.util.test.iml" />
+    </modules>
+  </component>
+</project>
